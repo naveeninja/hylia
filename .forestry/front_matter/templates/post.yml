@@ -50,3 +50,5 @@ fields:
       file: 
       path: 
   label: இயல்கள் (Iyalgal)
+pages:
+- src/posts/jnda.md
